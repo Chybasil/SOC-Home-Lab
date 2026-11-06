@@ -8,7 +8,7 @@ This repository showcases the hand-on labs i ahve done.
 
 ## Technologies used
 
-### pfSense: **For network segmentation, traffic control, logging, and DNS services (isolated encironment)**
+**pfSense:** For network segmentation, traffic control, logging, and DNS services (isolated encironment)
 
 Kali: Attack machine lunching real attacks
 
