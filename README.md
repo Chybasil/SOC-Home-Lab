@@ -10,13 +10,18 @@ This repository showcases the hand-on labs i ahve done.
 
 ## Technologies used
 
-**pfSense:** For network segmentation, traffic control, logging, and DNS services (isolated encironment)
+**pfSense:** 
+For network segmentation, traffic control, logging, and DNS services (isolated encironment)
 
-**Kali:** Attack machine lunching real attacks
+**Kali:** 
+Attack machine lunching real attacks
 
-**Windows Server:** The target machine generating security loge
+**Windows Server:** 
+The target machine generating security loge
 
-**Wazuh SIEM:** Collecting and analyzing security data from endpoints installed in Ubuntu Desktop
+**Wazuh SIEM:** 
+Collecting and analyzing security data from endpoints installed in Ubuntu Desktop
 
-**Ubuntu server:** Installed Web Servers, Databases, Docker, Python scripts, and Web Services.
+**Ubuntu server:** 
+Installed Web Servers, Databases, Docker, Python scripts, and Web Services.
 
