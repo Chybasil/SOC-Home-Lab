@@ -10,7 +10,7 @@ This repository showcases the hand-on labs i ahve done.
 
 ## Technologies used:
 
-**pfSense:**
+### pfSense:
 - For network segmentation, traffic control, logging, and DNS services (isolated encironment)
 
 **Kali:**
