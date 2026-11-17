@@ -13,15 +13,15 @@ This repository showcases the hand-on labs i ahve done.
 ### pfSense:
 - For network segmentation, traffic control, logging, and DNS services (isolated encironment)
 
-**Kali:**
+### Kali:
 - Attack machine lunching real attacks
 
-**Windows Server:**
+### Windows Server:
 - The target machine generating security loge
 
-**Wazuh SIEM:**
+### Wazuh SIEM:
 - Collecting and analyzing security data from endpoints installed in Ubuntu Desktop
 
-**Ubuntu server:**
+### Ubuntu server:
 - Installed Web Servers, Databases, Docker, Python scripts, and Web Services.
 
