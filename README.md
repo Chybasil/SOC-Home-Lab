@@ -6,7 +6,8 @@ This repository showcases the hand-on labs i ahve done.
 
 ## Architecture
 
-<img width="561" height="347" alt="image" src="https://github.com/user-attachments/assets/301e88d5-33a0-4249-b192-11a82b17a66b" />
+<img width="957" height="505" alt="image" src="https://github.com/user-attachments/assets/cc74a42a-b8f8-4be6-9067-baac0fcd713d" />
+
 
 ## Technologies used:
 
