@@ -20,9 +20,11 @@ This repository showcases the hand-on labs i ahve done.
 ### Windows Server:
 - The target machine generating security loge
 
-### Wazuh SIEM:
-- Collecting and analyzing security data from endpoints installed in Ubuntu Desktop
-
 ### Ubuntu server:
-- Installed Web Servers, Databases, Docker, Python scripts, and Web Services.
+- Running Wazuh SIEM: Collecting and analyzing security data from endpoints, (Windows server agent, etc.). The Wazuh dashboard can be accessed from any network device.
 
+### Screenshot of Wazuh running in Ubuntu Server VM and accessed from Kali VM.
+
+<img width="957" height="503" alt="image" src="https://github.com/user-attachments/assets/6a1787c2-fa58-468a-bff8-9ae53aabdce2" />
+
+- Running Web Servers, Databases, Docker, Python scripts, and System Automation Scripts.
